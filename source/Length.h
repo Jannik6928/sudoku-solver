@@ -1,0 +1,1 @@
+int get_subarray_length(int row, int col, int(&grid)[9][9][10]);
